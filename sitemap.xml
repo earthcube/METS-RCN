@@ -1,71 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://raw.githubusercontent.com/earthcube/METS-RCN/ec/Examples/Datasets/primaryproduction.json</loc>
-<lastmod>2024-05-03T13:34:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://raw.githubusercontent.com/earthcube/METS-RCN/ec/Examples/Datasets/primaryproductivity.json</loc>
-<lastmod>2024-05-03T13:34:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://raw.githubusercontent.com/earthcube/METS-RCN/ec/Examples/Datasets/timeSeriesProduct-dataset.json</loc>
-<lastmod>2024-05-03T13:34:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://raw.githubusercontent.com/earthcube/METS-RCN/ec/Examples/Datasets/zooplankton.json</loc>
-<lastmod>2024-05-03T13:34:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://raw.githubusercontent.com/earthcube/METS-RCN/ec/Examples/Events/ALOHA_Event_OCBworkshop.json</loc>
-<lastmod>2024-05-03T13:34:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://raw.githubusercontent.com/earthcube/METS-RCN/ec/Examples/Events/IC-event.json</loc>
-<lastmod>2024-05-03T13:34:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://raw.githubusercontent.com/earthcube/METS-RCN/ec/Examples/Events/IRM-event.json</loc>
-<lastmod>2024-05-03T13:34:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://raw.githubusercontent.com/earthcube/METS-RCN/ec/Examples/Events/aloha-event.json</loc>
-<lastmod>2024-05-03T13:34:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://raw.githubusercontent.com/earthcube/METS-RCN/ec/Examples/Events/cariaco-event.json</loc>
-<lastmod>2024-05-03T13:34:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://raw.githubusercontent.com/earthcube/METS-RCN/ec/Examples/Events/cvoo-event.json</loc>
-<lastmod>2024-05-03T13:34:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://raw.githubusercontent.com/earthcube/METS-RCN/ec/Examples/Events/dyfamed-event.json</loc>
-<lastmod>2024-05-03T13:34:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://raw.githubusercontent.com/earthcube/METS-RCN/ec/Examples/Events/gift-event.json</loc>
-<lastmod>2024-05-03T13:34:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://raw.githubusercontent.com/earthcube/METS-RCN/ec/Examples/Events/k2-event.json</loc>
-<lastmod>2024-05-03T13:34:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://raw.githubusercontent.com/earthcube/METS-RCN/ec/Examples/Events/knot-event.json</loc>
-<lastmod>2024-05-03T13:34:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://raw.githubusercontent.com/earthcube/METS-RCN/ec/Examples/Events/munida-event.json</loc>
-<lastmod>2024-05-03T13:34:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://raw.githubusercontent.com/earthcube/METS-RCN/ec/Examples/Events/owsm-event.json</loc>
-<lastmod>2024-05-03T13:34:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://raw.githubusercontent.com/earthcube/METS-RCN/ec/Examples/Events/radcor-event.json</loc>
-<lastmod>2024-05-03T13:34:30+02:00</lastmod>
-</url>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/aloha-event.json</loc>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/cariaco-event.json</loc>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/cvoo-event.json</loc>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/dyfamed-event.json</loc>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/gift-event.json</loc>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/IRM-event.json</loc>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/IC-event.json</loc>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/k2-event.json</loc>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/knot-event.json</loc>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/munida-event.json</loc>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/owsm-event.json</loc>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/radcor-event.json</loc>
+  </url>
 </urlset>
+
