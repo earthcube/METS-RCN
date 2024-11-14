@@ -52,7 +52,7 @@ jobs:
         id: sitemapdataset
         uses: cicirello/generate-sitemap@v1
         with:
-          base-url-path: https://raw.githubusercontent.com/${{ env.GITHUB_REPOSITORY }}
+          base-url-path: https://raw.githubusercontent.com/${{ github.repository }}
           path-to-root: .
           include-pdf: false
           additional-extensions: json jsonld
