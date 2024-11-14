@@ -52,8 +52,8 @@ jobs:
         id: sitemapdataset
         uses: cicirello/generate-sitemap@v1
         with:
-          base-url-path: https://raw.githubusercontent.com/${{ env.GITHUB_REPOSITORY }}/ec/
-          path-to-root: Examples
+          base-url-path: https://raw.githubusercontent.com/${{ env.GITHUB_REPOSITORY }}
+          path-to-root: .
           include-pdf: false
           additional-extensions: json jsonld
       - name: Output dataset dataset stats
