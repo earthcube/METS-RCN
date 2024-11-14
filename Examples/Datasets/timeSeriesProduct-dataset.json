@@ -11,73 +11,85 @@
   "keywords": ["ALOHA", "CARIACO","KNOT","K2","CVOO","Munida","RADCO","GIFT","DYFAMED","IrmingerSea","IcelandSea","OWSM", "Niskin Bottles", "Biogeochemistry"],
   "isBasedOn": [
     {
-    "@type": "Dataset",
-    "name": "ALOHA dataset niskin bottle (look at doi )",
-    "publisher": "Biological and Chemical Oceanography Data Management Office",
-    "identifier": "https://doi.org/10.1575/1912/bco-dmo.3773.1"
-    },
-    {  
+  "@type": "Dataset",
+  "identifier": {
+  	"@id": "https://doi.org/10.1575/1912/bco-dmo.3773.1",
+  	"@type": "PropertyValue",
+  	"name": "Niskin bottle water samples and CTD measurements from the Hawaii Ocean Time-Series cruises from 1988-2016 (HOT project):",
+  	"propertyID": "https://registry.identifiers.org/registry/doi",
+  	"value": "10.1575/1912/bco-dmo.3773.1",
+  	"url": "https://doi.org/10.1575/1912/bco-dmo.3773.1"
+   	},
+  "publisher": "Biological and Chemical Oceanography Data Management Office"
+  },
+  {
       "@type": "Dataset",
-      "name": "DOI: 10.1575/1912/bco-dmo.3093.1",
+      "name": "Time-series Niskin-bottle sample data from R/V Hermano Gines cruises in the Cariaco Basin from 1995 through 2017 (CARIACO Ocean Time-Series Program)",
       "publisher": "Biological and Chemical Oceanography Data Management Office",
       "url": "https://doi.org/10.1575/1912/bco-dmo.3093.1"
     },
-    { 
+    {
       "@type": "Dataset",
-      "name": "DOI: 10.25921/tarq-6v91",
+      "name": "Dissolved inorganic carbon, total alkalinity, temperature, salinity and other variables collected via time series monitoring from BOSEI MARU NO. 2, HAKUREI MARU and others in the North Pacific Ocean from 1992-06-23 to 2008-10-31 (NCEI Accession 0100219)",
       "publisher": "National Center for Environmental Information",
       "url": "https://doi.org/10.25921/tarq-6v91"
     },
-    { 
+    {
       "@type": "Dataset",
-      "name": "DOI: 10.25921/mpfz-sv16",
+      "name": "Carbon dioxide, temperature, salinity and other variables collected via time series profile monitoring from Kairei, MIRAI and NATSUSHIMA in the North Pacific Ocean from 1999-05-28 to 2008-10-26 (NCEI Accession 0100115)",
       "publisher": "National Center for Environmental Information",
       "url": "https://doi.org/10.25921/mpfz-sv16"
     },
-    { 
+    {
       "@type": "Dataset",
-      "name": "DOI: 10.20350/digitalCSIC/10549",
+      "name": "GIFT database (2005-2015): Hydrographic and carbon system parameters in the Strait of Gibraltar",
       "publisher": "Instituto de Ciencias Marinas de Andalucía",
       "url": "https://doi.org/10.20350/digitalCSIC/10549"
     },
     {
       "@type": "Dataset",
-      "name": "DOI: 10.17882/43749",
+      "name": "Dyfamed observatory data",
       "publisher": "Mediterranean ocean observing system for the environment",
       "url": "https://doi.org/10.17882/43749"
     },
     {
       "@type": "Dataset",
-      "name": "DOI: 10.25921/vjmy-8h90",
+      "name": "Dissolved inorganic carbon (DIC), total alkalinity, temperature, salinity, nutrients and dissolved oxygen collected from discrete samples and profile observations during the R/Vs Arni Fridriksson and Bjarni Saemundsson Irminger Sea (FX9) time series cruises in the North Atlantic Ocean in from 2014-02-11 to 2022-08-09 (NCEI Accession 0209072)",
       "publisher": "National Center for Environmental Information",
       "url": "https://doi.org/10.25921/vjmy-8h90"
     },
     {
       "@type": "Dataset",
-      "name": "DOI: 10.3334/cdiac/otg.carina_irmingersea_v2",
+      "name": "Partial pressure (or fugacity) of carbon dioxide, dissolved inorganic carbon, temperature, salinity and other variables collected from discrete sample and profile observations using CTD, bottle and other instruments from ARNI FRIDRIKSSON and BJARNI SAEMUNDSSON in the North Atlantic Ocean from 1983-03-05 to 2013-11-13 (NCEI Accession 0149098)",
       "publisher": "National Center for Environmental Information",
       "url": "https://doi.org/10.3334/cdiac/otg.carina_irmingersea_v2"
     },
     {
       "@type": "Dataset",
-      "name": "DOI: 10.25921/qhed-3h84",
+      "name": "Dissolved inorganic carbon (DIC), total alkalinity, temperature, salinity, nutrients and dissolved oxygen collected from discrete samples and profile observations during the R/Vs Arni Fridriksson and Bjarni Saemundsson time series IcelandSea (LN6) cruises in the North Atlantic Ocean from 2014-02-18 to 2022-08-16 (NCEI Accession 0209074)",
       "publisher": "National Center for Environmental Information",
       "url": "https://doi.org/10.25921/qhed-3h84"
     },
     {
       "@type": "Dataset",
-      "name": "DOI: 10.3334/cdiac/otg.carina_icelandsea",
+      "name": "Partial pressure (or fugacity) of carbon dioxide, dissolved inorganic carbon, temperature, salinity and other variables collected from discrete samples, profile and time series profile observations during the R/Vs Arni Fridriksson and Bjarni Saemundsson time series IcelandSea (LN6) cruises in the North Atlantic Ocean from 1985-02-22 to 2013-11-26 (NCEI Accession 0100063)",
       "publisher": "National Center for Environmental Information",
       "url": "https://doi.org/10.3334/cdiac/otg.carina_icelandsea"
     },
     {
       "@type": "Dataset",
-      "name": "DOI: 10.3334/cdiac/otg_tsm_ows_m_66n_2e",
+      "name": "Dissolved inorganic carbon, alkalinity, and associated variables collected from Ocean Weather Station M (OWSM) at 66° N, 2° E in the Norwegian Sea from 2001-10-31 to 2021-07-30 (NCEI Accession 0112884)",
       "publisher": "National Center for Environmental Information",
       "url": "https://doi.org/10.3334/cdiac/otg_tsm_ows_m_66n_2e"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Ship-based CVOO biogeochemical bottle dataset 2006-2019",
+      "publisher": "PANGAEA",
+      "url": "https://doi.pangaea.de/10.1594/PANGAEA.958597"
     }
   ],
-  "about": 
+  "about":
   [{
     "@type":"Event",
     "name": "HOT ALOHA Niskin Bottles",
@@ -164,16 +176,16 @@
     }
   ],
   "isAccessibleForFree": true,
-  "datePublished": "",
+  "datePublished": "2023-07-07",
   "identifier": {
-    "@id": "",
+    "@id": "https://doi.org/10.26008/1912/bco-dmo.896862.1",
     "@type": "PropertyValue",
-    "name": "DOI:",
+    "name": "Synthesis Product for Ocean Time Series (SPOTS)",
     "propertyID": "https://registry.identifiers.org/registry/doi",
-    "value": "",
-    "url": "https://doi.org/"
+    "value": "10.26008/1912/bco-dmo.896862.1",
+    "url": "https://doi.org/10.26008/1912/bco-dmo.896862.1"
   },
-  "citation": "Lange et al. (2023): A ship-based biogeochemical time-series data product",
+  "citation": "Lange, N., Fiedler, B., Álvarez, M., Benoit-Cattin, A., Benway, H., Buttigieg, P., Coppola, L., Currie, K. I., Flecha, S., Honda, M. C., Huertas, E. I., Lauvset, S. K., Muller-Karger, F., Körtzinger, A., O'Brien, K. M., Ólafsdóttir, S., Pacheco, F. C., Rueda-Roa, D., Skjelvan, I., Wakita, M., White, A. E., Tanhua, T. (2023) Synthesis Product for Ocean Time Series (SPOTS). Biological and Chemical Oceanography Data Management Office (BCO-DMO). (Version 1) Version Date 2023-07-07 [if applicable, indicate subset used]. http://lod.bco-dmo.org/id/dataset/896862 [access date]",
   "distribution": {
     "@type": "DataDownload",
     "contentUrl": "",
@@ -192,7 +204,7 @@
                 "-24.3879 17.7000, -24.3879 17.4896, -24.2100 17.4896, -24.2100 17.7000, -24.3879 17.7000",
                 "7.8666 43.4168, 7.8666 43.4167, 7.8667 43.4167, 7.8667 43.4168, 7.8666 43.4168",
                 "-5.9980 36.8950, -5.9980 35.8497, -5.3180 35.8497, -5.3180 36.8950, -5.9980 36.8950",
-                
+
                 "-13.2550 68.0167, -13.2550 67.5003, -12.6068 67.5003, -12.6068 68.0167, -13,2550  68.0167",
                 "-28.0200 64.4000, -28.0200 64.3212 , -26.0000 64.3212, -26.0000 64.4000, -28.0200 64.4000",
                 "159.9000 47.1160, 159.9000 46.7510, 160.3580 46.7510, 160.3580 47.1160, 159.9000 47.1160",
@@ -200,9 +212,9 @@
                 "171.4277 -45.7794, 171.4277 -45.9420, 171.5590 -45.9420, 171.5590 -45.7794, 171.4277 -45.7794",
                 "1.9800 66.0100, 1.9800 65.8000, 2.2400 65.8000, 2.2400 66.0100, 1.9800 66.0100",
                 "-8.4367 43.4217, -8.4367 43.3633, -8.3700 43.3633, -8.3700 43.4217, -8.4367 43.4217"
-            ]        
+            ]
 	},
-		"additionalProperty":[ 
+		"additionalProperty":[
       {
             "@type": "PropertyValue",
             "propertyID": "http://dbpedia.org/resource/Spatial_reference_system",
@@ -252,7 +264,7 @@
       }
     }
   ],
-  "license": "https://spdx.org/licenses/CC-BY-3.0",
+  "license": "https://spdx.org/licenses/CC-BY-4.0",
   "variableMeasured": [
     {
       "@type": "PropertyValue",
@@ -1126,6 +1138,12 @@
     },
     {
       "@type": "PropertyValue",
+      "name": "PH_TMP",
+      "description": "pH sample temperature",
+      "unitText": "degree Celcius (degC)"
+    },
+    {
+      "@type": "PropertyValue",
       "name": "PH_TOT_BPf",
       "description": "pH Best-Practice Flag: Indicates the extent to which Best-Practices have been followed (Lange et al. 2023)."
     },
@@ -1164,7 +1182,7 @@
     },
     {
       "@type": "PropertyValue",
-      "name": "PCO2_TMP",
+      "name": "PCO2TMP",
       "description": "pCO2 sample temperature",
       "unitText": "degree Celcius (degC)"
     },
