@@ -42,7 +42,7 @@ jobs:
       - run: pip install mkdocs
       - run: pip install mkdocs-schema-reader
       - name: Checkout the repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 1
         #   - run: mkdocs gh-deploy  --force --clean --verbose
@@ -50,7 +50,7 @@ jobs:
         #  the original sitemap, at metadata/Dataset root
       - name: Generate the dataset  sitemap
         id: sitemapdataset
-        uses: cicirello/generate-sitemap@v4
+        uses: cicirello/generate-sitemap@v1
         with:
           base-url-path: https://raw.githubusercontent.com/${{ env.GITHUB_REPOSITORY }}/ec/
           path-to-root: Examples
