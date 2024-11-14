@@ -1,40 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/aloha-event.json</loc>
-  </url>
-  <url>
-    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/cariaco-event.json</loc>
-  </url>
-  <url>
-    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/cvoo-event.json</loc>
-  </url>
-  <url>
-    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/dyfamed-event.json</loc>
-  </url>
-  <url>
-    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/gift-event.json</loc>
-  </url>
-  <url>
-    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/IRM-event.json</loc>
-  </url>
-  <url>
-    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/IC-event.json</loc>
-  </url>
-  <url>
-    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/k2-event.json</loc>
-  </url>
-  <url>
-    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/knot-event.json</loc>
-  </url>
-  <url>
-    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/munida-event.json</loc>
-  </url>
-  <url>
-    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/owsm-event.json</loc>
-  </url>
-  <url>
-    <loc>https://raw.githubusercontent.com/NicoGEOMAR/METS-RCN/main/Examples/Events/radcor-event.json</loc>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://raw.githubusercontent.com/Examples/Datasets/primaryproduction.json</loc>
+<lastmod>2024-11-14T10:27:57-08:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/Examples/Datasets/primaryproductivity.json</loc>
+<lastmod>2024-11-14T10:27:57-08:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/Examples/Datasets/timeSeriesProduct-dataset.json</loc>
+<lastmod>2024-11-14T10:27:57-08:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/Examples/Datasets/zooplankton.json</loc>
+<lastmod>2024-11-14T10:27:57-08:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/Examples/Events/ALOHA_Event_OCBworkshop.json</loc>
+<lastmod>2024-11-14T10:27:57-08:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/Examples/Events/IC-event.json</loc>
+<lastmod>2024-11-14T10:27:57-08:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/Examples/Events/IRM-event.json</loc>
+<lastmod>2024-11-14T10:27:57-08:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/Examples/Events/aloha-event.json</loc>
+<lastmod>2024-11-14T10:27:57-08:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/Examples/Events/cariaco-event.json</loc>
+<lastmod>2024-11-14T10:27:57-08:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/Examples/Events/cvoo-event.json</loc>
+<lastmod>2024-11-14T10:27:57-08:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/Examples/Events/dyfamed-event.json</loc>
+<lastmod>2024-11-14T10:27:57-08:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/Examples/Events/gift-event.json</loc>
+<lastmod>2024-11-14T10:27:57-08:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/Examples/Events/k2-event.json</loc>
+<lastmod>2024-11-14T10:27:57-08:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/Examples/Events/knot-event.json</loc>
+<lastmod>2024-11-14T10:27:57-08:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/Examples/Events/munida-event.json</loc>
+<lastmod>2024-11-14T10:27:57-08:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/Examples/Events/owsm-event.json</loc>
+<lastmod>2024-11-14T10:27:57-08:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/Examples/Events/radcor-event.json</loc>
+<lastmod>2024-11-14T10:27:57-08:00</lastmod>
+</url>
 </urlset>
-
